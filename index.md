@@ -2,122 +2,48 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+_My Secret Desk_ is an open-source desktop application. It is built to save your notes, appointments, and passwords in your local harddrive. 
 
-[Link to another page](./another-page.html).
+The desktop application lets you gain complete control over your important and sensitive data that you worry to store in a third-party application or online to access without internet. 
 
-There should be whitespace between paragraphs.
+This application is completely free to use and doesn't require an active internet connection to work. To view the source code click on the button "View On GitHub". 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+One sample screenshot is attached below:
+![Image](https://github.com/Kiranendra/msd/tree/main/assets/img/ss.png)
 
-# Header 1
+I admit that the application is looking pale with poor designs. But, I had focused more on the user data protection rather than good looking designs. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Your private data is completely safe and secure until you expose your **Private Key** to other users. 
 
-## Header 2
+Follow the instructions carefully given in the _Readme_ file which is available to download and also provided within the zip file.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Pros and Cons
 
-### Header 3
+For your better understanding I have provided the pros and cons of using the application.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+| PROS        | Summary          |
+|:-------------|:------------------|
+| Free and Open-Source | This applciation is free to use and open-source (nothing is hidden from your eyes - except the cipher which works on encryption and decryption of the data) |
+| Simple UI to understand | The UI is very simple to use and understand |
+| No Internet Required | The application works without internet. However, two functionalities require internet. You will know them when you are using it. |
+| Privacy | As I mentioned earlier your data is completely secure and is in your hands. |
+| No Install Required | The application does not require any installation. Just download the zip extract it and use it. |
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+| CONS        | Summary          |
+|:-------------|:------------------|
+| UI | Although the UI is simple it lacks beauty (since I used only Tkinter-Python) |
+| Data | Your data is in your hands. Your data is only secure until you keep your `key` safe and hidden. |
+| Data | Your data is in your hands. Your data is only secure until you keep your `key` safe and hidden. |
+| Updates | Since it is not being installed, updating the application is little tricky. But, I will give instructions for every update. |
 
-#### Header 4
+### Contact
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Visit my [Portfolio](https://kiranendra.github.io/) to know about me a little.
 
-##### Header 5
+For any issues/feature requests in the application click [here](https://github.com/Kiranendra/my-secret-desk-desktop/issues).
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+For feedback/suggestions/others mail me at `k.develop.k@gmail.com` with appropriate subject.
 
-###### Header 6
+If you like this project please give a star in GitHub and share this to reach as far as possible.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**Thank You for visiting**
