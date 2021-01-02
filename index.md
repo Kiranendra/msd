@@ -9,7 +9,8 @@ The desktop application lets you gain complete control over your important and s
 This application is completely free to use and doesn't require an active internet connection to work. To view the source code click on the button "View On GitHub". 
 
 One sample screenshot is attached below:
-![Image](https://github.com/Kiranendra/msd/tree/main/assets/img/ss.png)
+
+![Image](ss.png)
 
 I admit that the application is looking pale with poor designs. But, I had focused more on the user data protection rather than good looking designs. 
 
