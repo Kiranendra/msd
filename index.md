@@ -16,6 +16,8 @@ I admit that the application is looking pale with poor designs. But, I had focus
 
 Your private data is completely safe and secure until you expose your **Private Key** to other users. 
 
+You can generate your private key [here](https://kiranendra.github.io/keygen/). The key generation webpage is open-source too.
+
 Follow the instructions carefully given in the _Readme_ file which is available to download and also provided within the zip file.
 
 ### Pros and Cons
