@@ -41,7 +41,7 @@ For your better understanding I have provided the pros and cons of using the app
 
 ### Contact
 
-Visit my [Portfolio](https://kiranendra.github.io/) to know about me a little.
+Visit my [Website](https://kiranendra.github.io/) to know about me a little.
 
 For any issues/feature requests in the application click [here](https://github.com/Kiranendra/my-secret-desk-desktop/issues).
 
