@@ -16,7 +16,7 @@ I admit that the application is looking pale with poor designs. But, I had focus
 
 Your private data is completely safe and secure until you expose your **Private Key** to other users. 
 
-You can generate your private key [here](https://kiranendra.github.io/keygen/). The key generation webpage is open-source too.
+You can generate your private key **[here](https://kiranendra.github.io/keygen/)**. The key generation webpage and the process is open-source too.
 
 Follow the instructions carefully given in the _Readme_ file which is available to download and also provided within the zip file.
 
@@ -24,7 +24,7 @@ Follow the instructions carefully given in the _Readme_ file which is available 
 
 For your better understanding I have provided the pros and cons of using the application.
 
-| PROS        | Summary          |
+| PROS        | Explanation          |
 |:-------------|:------------------|
 | Free and Open-Source | This applciation is free to use and open-source (nothing is hidden from your eyes - except the cipher which works on encryption and decryption of the data) |
 | Simple UI to understand | The UI is very simple to use and understand |
@@ -32,12 +32,11 @@ For your better understanding I have provided the pros and cons of using the app
 | Privacy | As I mentioned earlier your data is completely secure and is in your hands. |
 | No Install Required | The application does not require any installation. Just download the zip extract it and use it. |
 
-| CONS        | Summary          |
+| CONS        | Explanation          |
 |:-------------|:------------------|
 | UI | Although the UI is simple it lacks beauty (since I used only Tkinter-Python) |
 | Data | Your data is in your hands. Your data is only secure until you keep your `key` safe and hidden. |
-| Data | Your data is in your hands. Your data is only secure until you keep your `key` safe and hidden. |
-| Updates | Since it is not being installed, updating the application is little tricky. But, I will give instructions for every update. |
+| Updates | Since it is not being installed, updating the application is little tricky(But, I will give instructions for every update). |
 
 ### Contact
 
@@ -47,6 +46,6 @@ For any issues/feature requests in the application click [here](https://github.c
 
 For feedback/suggestions/others mail me at `k.develop.k@gmail.com` with appropriate subject.
 
-If you like this project please give a star in GitHub and share this to reach as far as possible.
+If you like this project please give a star in GitHub and share this to reach as many users as possible.
 
 **Thank You for visiting**
